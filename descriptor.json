@@ -74,7 +74,7 @@
       "command-line-flag": "--@id"
     }
   ],
-  "name": "DSi2k-IJNucleiSeg",
+  "name": "DS-i2k-IJNucleiSeg",
   "description": "Test .... Segment clustered nuclei using a laplacian filter, thresholding and a binary watershed transform",
   "schema-version": "cytomine-0.1",
   "container-image": {
